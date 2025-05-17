@@ -1,3 +1,16 @@
 :root {
 	--zen-element-separation: 0px !important;
+	--custom-tab-icon-image-size: 18px !important;
+	--custom-workspaces-button-size: small !important;
+}
+
+
+.tab-icon-image {
+	width: var(--custom-tab-icon-image-size, 16px) !important;
+	height: var(--custom-tab-icon-image-size, 16px) !important;
+}
+
+
+#zen-workspaces-button {
+	font-size: var(--custom-workspaces-button-size, x-small) !important;
 }
