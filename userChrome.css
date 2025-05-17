@@ -1,8 +1,8 @@
 :root {
 	--zen-element-separation: 0px !important;
-	--custom-tab-icon-image-size: 18px !important;
+	--custom-tab-icon-image-size: 18px;
 	--custom-tabbrowser-tab-font-size: small;
-	--custom-workspaces-button-font-size: small !important;
+	--custom-workspaces-button-font-size: small;
 }
 
 .tab-icon-image {
